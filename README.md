@@ -1,7 +1,7 @@
-# assignment-7
+# assignment-08
 This is the seventh assignment of the semester for HES 597. 
 
 ## Learning objectives for this assignment are:
-- practice more advanced raster operations
-- practice using extract and joining results to existing spatial databases
-- practice breaking an analysis into smaller problems and parallelizing
+- learn some of the different plotting packages
+- explore how R instantiates the grammar of graphics
+- build choropleths and cartograms
